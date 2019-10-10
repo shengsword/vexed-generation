@@ -5,7 +5,6 @@ vector vg_from_spherical(float theta; float phi; float radius) {
     float z = sin(phi) * radius * cos(theta);
     return set(x, y, z);
 }
-
 vector vg_to_spherical(vector v) {
     float r = length(v);
     float theta = 0.;
