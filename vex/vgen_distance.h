@@ -11,7 +11,6 @@
 //  /_____/      \/     \/     \/           \/                    \/
 //
 //  (c) 2016 Karsten Schmidt // ASL 2.0 licensed
-
 #ifndef __vgen_distance_h__
 #define __vgen_distance_h__
 
