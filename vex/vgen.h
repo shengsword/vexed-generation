@@ -46,3 +46,4 @@ void vg_min_version(string version) {
 #include <vgen_ptf.h>
 #include <vgen_tessel.h>
 #include <vgen_vector.h>
+#include <vgen_spherical.h>
